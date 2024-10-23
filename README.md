@@ -13,7 +13,7 @@
   Cada objeto hereda de una misma base, por lo que recibe un mismo método, y el cliente es totalmente intercambiable, sin dependecia de cuál es el objeto en sí.
 
 
-**3 Cuál es la problemática con la que nos encontraríamos en el ejercicio si no aplicaramos el patrón? y 4 Porqué el patrón soluciona esa problemática? de que forma lo hace?: **
+** 3 Cuál es la problemática con la que nos encontraríamos en el ejercicio si no aplicaramos el patrón? y 4 Porqué el patrón soluciona esa problemática? de que forma lo hace?: **
 
   Tal vez para este ejemplo en concreto no habría una "problematica" como tal, ya que se podría llegar al mismo resultado de mil maneras diferentes. Este patrón y solucion lo que brindan es una manera organizada de llevar acabo la ejecución.
   Presenta una clara estructura de referencias y funciones que es facil de leer y mantener a futuro a medida que el proyecto crezca.
